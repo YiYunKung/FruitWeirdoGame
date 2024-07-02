@@ -1,0 +1,20 @@
+C:\Users\游雅碩\Desktop\fruit\fruit\bin\Debug\fruit.exe
+C:\Users\游雅碩\Desktop\fruit\fruit\bin\Debug\fruit.pdb
+C:\Users\游雅碩\Desktop\fruit\fruit\obj\Debug\fruit.csproj.AssemblyReference.cache
+C:\Users\游雅碩\Desktop\fruit\fruit\obj\Debug\fruit.csproj.SuggestedBindingRedirects.cache
+C:\Users\游雅碩\Desktop\fruit\fruit\obj\Debug\fruit.Form1.resources
+C:\Users\游雅碩\Desktop\fruit\fruit\obj\Debug\fruit.Properties.Resources.resources
+C:\Users\游雅碩\Desktop\fruit\fruit\obj\Debug\fruit.csproj.GenerateResource.cache
+C:\Users\游雅碩\Desktop\fruit\fruit\obj\Debug\fruit.csproj.CoreCompileInputs.cache
+C:\Users\游雅碩\Desktop\fruit\fruit\obj\Debug\fruit.exe
+C:\Users\游雅碩\Desktop\fruit\fruit\obj\Debug\fruit.pdb
+D:\NCYU\大二 視窗程設C#\期末遊戲專題\fruit\fruit\bin\Debug\fruit.exe
+D:\NCYU\大二 視窗程設C#\期末遊戲專題\fruit\fruit\bin\Debug\fruit.pdb
+D:\NCYU\大二 視窗程設C#\期末遊戲專題\fruit\fruit\obj\Debug\fruit.csproj.AssemblyReference.cache
+D:\NCYU\大二 視窗程設C#\期末遊戲專題\fruit\fruit\obj\Debug\fruit.csproj.SuggestedBindingRedirects.cache
+D:\NCYU\大二 視窗程設C#\期末遊戲專題\fruit\fruit\obj\Debug\fruit.Form1.resources
+D:\NCYU\大二 視窗程設C#\期末遊戲專題\fruit\fruit\obj\Debug\fruit.Properties.Resources.resources
+D:\NCYU\大二 視窗程設C#\期末遊戲專題\fruit\fruit\obj\Debug\fruit.csproj.GenerateResource.cache
+D:\NCYU\大二 視窗程設C#\期末遊戲專題\fruit\fruit\obj\Debug\fruit.csproj.CoreCompileInputs.cache
+D:\NCYU\大二 視窗程設C#\期末遊戲專題\fruit\fruit\obj\Debug\fruit.exe
+D:\NCYU\大二 視窗程設C#\期末遊戲專題\fruit\fruit\obj\Debug\fruit.pdb
